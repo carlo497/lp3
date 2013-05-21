@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"block",
+				"block-header"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"Fade",
+				"fadeIn"
+			],
+			[
+				"ne",
+				"note"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"cl",
+				"clear"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contentscript.js",
+			"settings":
+			{
+				"buffer_size": 2060,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content.css",
+			"settings":
+			{
+				"buffer_size": 252,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal v2/css/layout.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal v2/theme-settings.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal v2/portal_v2.info",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal v2/template.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/css/theme-settings.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/css/articles.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/templates/node.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/css/navigation.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/css/blocks.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/theme-settings.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/css/gallery.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/templates/node--aktywnosc.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/templates/node--enode.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/templates/node--instytucja.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/templates/node--oferta.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/all/themes/portal/templates/node--szkolenie.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/bach.pl/themes/bach/js/jquery.event.drag.js",
+		"/C/XAMPP/htdocs/drupal_7/sites/bach.pl/themes/bach/templates/views-view-field--field-data.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/bach.pl/themes/bach/README",
+		"/C/XAMPP/htdocs/drupal_7/sites/bach.pl/themes/bach/bach.info",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/themes/cc/screenshot.jpg",
+		"/C/Users/qba/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/themes/cc/templates/html.tpl.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/themes/cc/css/layout.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/modules/page_image/page_image.module",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/themes/cc/css/node.css",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/themes/cc/template.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/themes/cc/theme-settings.php",
+		"/C/XAMPP/htdocs/drupal_7/sites/capellacracoviensis.pl/themes/cc/cc.info"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slide",
+			"portal_",
+			"color",
+			"header",
+			"primary",
+			"menu",
+			"logo",
+			"h",
+			"h2",
+			"h1",
+			"article-title",
+			"\n#page > header,\n#page > footer {\n	color: #aaa;\n}",
+			"}\n",
+			",\n",
+			"body",
+			"footer",
+			"\n		<?php if ($page['footer1']): ?>\n		<?php print render($page['footer1']); ?>\n		<?php endif; ?>",
+			"\n    'bach program' => array(\n      'title' => t('Access to program'),\n    ),",
+			"krk",
+			"intro",
+			"}\n",
+			"wide",
+			"']);\n",
+			"');\n",
+			"wys",
+			"right",
+			"footer",
+			";\n",
+			">\n",
+			"cc_",
+			"debug",
+			"ff5a",
+			"border",
+			"ff5a00"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"portal_v2_",
+			"bach_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contentscript.js",
+					"settings":
+					{
+						"buffer_size": 2060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content.css",
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 69.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}

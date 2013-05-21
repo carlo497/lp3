@@ -1,0 +1,25 @@
+.boxTop table{
+  width: 280px;
+}
+.yourChoice.sticky {
+	position: fixed;
+	top: 0;
+  margin-top: 1%;
+  max-height: 96%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.yourChoice {
+  width: 300px !important;
+}
+.yourChoice #sendvotes {
+  background-color: #E50277 !important;
+  color: #ffffff !important;
+  padding: 0.5em;
+  border-radius: 5px;
+}
+.yourChoice span.remove {
+	color: #FFB8B8 !important;
+	font-size: 0.9em;
+  cursor: pointer;
+}
