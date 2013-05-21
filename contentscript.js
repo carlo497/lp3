@@ -1,7 +1,7 @@
 jQuery(document).ready(function(){
 
 	var left = jQuery("#divRight");
-	var block = '<div class="yourChoice boxTop"><a class="title">Twój dotychczasowy wybór <span id="sendvotes">Głosuj</span></a><table cellpadding="0" cellspacing="0"></table></div>';
+	var block = '<div class="yourChoice boxTop"><a class="title">Twój dotychczasowy wybór</a><table cellpadding="0" cellspacing="0"></table></div>';
 	left.append(block);
 	jQuery(".chk").each(function() {
 		if(jQuery(this).is(':checked')) {
